@@ -1,11 +1,19 @@
+body {
+	background-color: lightgrey;
+}
+
 h1 {
 	color: skyblue;
 	text-align: center;
 	font-style: normal;
 	font-weight: bold;
-	font-size: normal;
+	font-size: 50px;
 	font-family: monoface;
 	line-height: normal;
+}
+
+h3 {
+	text-decoration: underline;
 }
 
 h4 {
@@ -13,7 +21,7 @@ h4 {
 	text-align: center;
 	font-style: italic;
 	font-weight: bold;
-	font-size: normal;
+	font-size: 20px;
 	font-family: monoface;
 	line-height: normal;
 }
@@ -28,5 +36,10 @@ p {
 	line-height: normal;
 }
 
+ul li {
+	color: grey;
+	font-family: cursive;
+	line-height: 5px;
+}
 
 
