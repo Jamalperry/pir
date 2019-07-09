@@ -1,5 +1,5 @@
 body {
-	background-color: lightgrey;
+	background-color: pinklightgrey;
 }
 
 h1 {
@@ -40,6 +40,18 @@ ul li {
 	color: grey;
 	font-family: cursive;
 	line-height: 5px;
+}
+
+img {
+	float: left;
+	width: 40%;
+	height: 40%;
+	border: 3px grey solid;
+	margin: 5px;
+}
+
+.picspg {
+	text-align: center;
 }
 
 
